@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm heliumhydride (or just hydride for short), in some other places on the Internet i'm also called core4 or Noyau4.
+
+🛠️ Cool things im working on rn:
+- 💻 [neptunium](https://github.com/heliumhydride/neptunium-build), a msys2/w64devkit like development environment for MS/Windows.
+- 🤖 [muonium](https://github.com/heliumhydride/muonium-manager), a suite of discord bots for moderation, fun, music and more.
+
 <!--
 **heliumhydride/heliumhydride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
